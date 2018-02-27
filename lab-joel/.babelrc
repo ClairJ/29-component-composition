@@ -1,4 +1,4 @@
 {
   "presets": ["env", "react"],
-  "plugins": ["trabsform-object-rest-spread"]
+  "plugins": ["transform-object-rest-spread"]
 }
